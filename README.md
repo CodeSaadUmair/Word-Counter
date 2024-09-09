@@ -24,7 +24,9 @@ Whether you're a student, writer, or developer, this tool provides an easy and e
 - **Word Count**: Displays the total number of words based on spaces and punctuation.
 ## Usage
 
-- see here *Link* : 
+- see here *Link* : https://codesaadumair.github.io/Word-Counter/
+
+  
 ## Technologies
 
 - HTML: Structure of the webpage.
